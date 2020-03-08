@@ -1,0 +1,16 @@
+select * from variants.clinical;
+
+--Bayer
+select DISTINCT
+case_id1,
+gender,
+vital_status,
+year_of_birth,
+ajcc_pathologic_stage,
+primary_diagnosis,
+treatment_type,
+year_of_diagnosis
+from variants.clinical
+where gender = 'female'
+and ajcc_pathologic_stage != 'Stage IA'
+and ajcc_pathologic_stage != 'Stage I' and vital_status ilike 'Alive';
