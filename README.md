@@ -25,57 +25,6 @@ As the above data is de-identified to protect the patients, I also consulted the
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Trials and Criteria  
-
-Bayer’s (BAY1895344) first-in human study of ATR inhibitor in patients with Advanced solid tumors and lymphomas. https://clinicaltrials.gov/ct2/show/NCT03188965
-
-Criteria for Matching	Inclusion/ Exclusion
-Patient is located within 100 miles of trial site	I 
-Diagnosis of a gynecological cancer	I
-Patient has BRCA1 or BRCA2 somatic or pathogenic germline mutation or ATM deleterious mutation	I
-Patient does not have a known HIV infection	E
-
-Incyte Corporation FIGHT 208 study on Efficacy and Safety of Pemigatinib in patients with Solid Tumors and an FGFR mutation or Translocation. https://clinicaltrials.gov/ct2/show/NCT04003623
-
-Criteria	Inclusion/ Exclusion
-≥ 18 years of age	I
-Patient is located within 100 miles of trial site	I
-Advanced or metastatic solid tumor malignancy	I
-FGFR1-3 mutation or fusion	I
-Does not have bladder cancer or cholangiocarcinoma	E
-
-Janssen Research & Development, LLC is an efficacy and safety study of Niraparib in men with metastatic castration resistant prostate cancer and DNA-Repair Anomalies. 
-
-Criteria for Matching	Inclusion/ Exclusion
-Male, 18 years or older	I
-Metastatic prostate cancer	I
-Biomarker-positive for DNA-repair anomalies	I
-No known history or current diagnosis of myelodysplastic syndrome (MDS)/acute
-myeloid leukemia (AML)	E
-
-Cleaning the data
-
-
 References:
 https://www.cancer.gov/research/nci-role/cancer-centers/find
 
