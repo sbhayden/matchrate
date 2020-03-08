@@ -1,0 +1,15 @@
+select * from variants.clinical;
+
+--Incyte 208
+select DISTINCT
+case_id1,
+gender,
+vital_status,
+year_of_birth,
+ajcc_pathologic_stage,
+primary_diagnosis,
+treatment_type,
+year_of_diagnosis
+from variants.clinical
+where vital_status ilike 'Alive';
+© 2020 GitHub, Inc.
